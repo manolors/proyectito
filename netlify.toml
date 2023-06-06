@@ -1,0 +1,4 @@
+[build]
+base = ""
+publish = "aguacate/"
+command = "npm run buildeame-este-proyect"
