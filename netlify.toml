@@ -4,4 +4,4 @@ publish = "dist/"
 command = "npm run build"
 
 [context.branch-deploy]
-publish="dist2"
+publish="dist2/"
